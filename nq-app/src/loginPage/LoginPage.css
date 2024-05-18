@@ -1,0 +1,9 @@
+#LoginPage{
+    background-color: #ffb236 !important;
+    height: 100vh !important;
+    color: brown !important;
+}
+.form-inp{
+    margin: 0% 15% 0% 15%;
+    width: 70%;
+}
